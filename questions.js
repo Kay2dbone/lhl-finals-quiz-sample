@@ -23,8 +23,8 @@ const questions = [
   {
     question: "What is your eye color",
     options: [
-      { text: "Toronto", nextQuestion: 2 },
-      { text: "Calgari", nextQuestion: 4 },
+      { text: "Violet", nextQuestion: 2 },
+      { text: "Teloiv", nextQuestion: 4 },
     ]
   },
   {
